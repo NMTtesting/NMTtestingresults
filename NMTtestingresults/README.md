@@ -46,27 +46,36 @@ As we can see, PatInv reports two suspicious issues. These two issues are genear
 
 For English->Hindi Setting:
 
+| Issue 1 |
 | :--- |
 | I am very willing to share my point of view. |
 | I am very willing to share my point of day. |
 | मैं अपनी बात साझा करने के लिए बहुत इच्छुक हूं। |
 | both |
 
+| Issue 2 |
+| :--- |
 | I had a story to tell and I wanted to finish it, Draper says. |
 | I had a story to tell and I wanted to finish it, jack says. |
 | मेरे पास बताने के लिए एक कहानी थी और मैं इसे खत्म करना चाहता था। |
 | both |
 
+| Issue 3 |
+| :--- |
 | The key to accepting praise at work is to show you received it and appreciate it. |
 | The key to accepting praise at work is to think you received it and appreciate it. |
 | काम पर प्रशंसा स्वीकार करने की कुंजी यह है कि आप इसे प्राप्त करें और इसकी सराहना करें। |
 | both |
 
+| Issue 4 |
+| :--- |
 | The situation at the southern border, which started as a crisis, is now a near system wide meltdown. |
 | The situation at the southern border, which started as a crisis, is now a near system wide development. |
 | दक्षिणी सीमा पर स्थिति, जो एक संकट के रूप में शुरू हुई थी, अब एक निकटवर्ती प्रणाली है। |
 | second |
 
+| Issue 5 |
+| :--- |
 | It ' s not just a matter of sending money their way. |
 | It ' s not just a matter of sending money . |
 | यह सिर्फ पैसे भेजने की बात नहीं है। |
@@ -78,26 +87,36 @@ For English->Hindi Setting:
 
 For English->Hindi setting:
 
+| Issue 1 |
+| :--- |
 | First, proper training for pilots who are flying new aircraft is crucially important. |
 | First, proper training for pilots who are flying new aircraft is important. |
 | पहला, नए विमान उड़ाने वाले पायलटों के लिए उचित प्रशिक्षण महत्वपूर्ण है । |
 | first |
 
+| Issue 2 |
+| :--- |
 | A simple response of thank you very much, I appreciate you saying that or thank you, I worked very hard on it can suffice. |
 | A simple response of thank you very much, I appreciate you saying that or thank you, I worked very hard on it can . |
 | आप बहुत बहुत धन्यवाद की एक साधारण प्रतिक्रिया, मैं आपको यह कहते हुए सराहना करता हूं कि या धन्यवाद, मैंने इस पर बहुत मेहनत की है। |
 | first |
 
+| Issue 3 |
+| :--- |
 | I am very willing to share my point of view. |
 | I am very willing to share my areas of view. |
 | मैं अपने दृष्टिकोण को साझा करने के लिए बहुत इच्छुक हूं । |
 | second |
 
+| Issue 4 |
+| :--- |
 | But only 6% of them attend private institutions, and though the elite University of California system has significantly increased its Latino enrollment, just 4% attend one of those campuses. |
 | But only 6% of them attend private institutions, and though the elite University of California system has vastly increased its Latino enrollment, just 4% attend one of those campuses. |
 | लेकिन उनमें से केवल 6% निजी संस्थानों में भाग लेते हैं, और हालांकि कैलिफोर्निया प्रणाली के अभिजात वर्ग विश्वविद्यालय काफी अपने लातीनी नामांकन में वृद्धि हुई है, सिर्फ 4% उन परिसरों में से एक में भाग लेते हैं । |
 | first |
 
+| Issue 5 |
+| :--- |
 | And he pointed out that Toyota, the Japanese company, is investing in the US by opening new plants. |
 | And he told out that Toyota, the Japanese company, is investing in the US by opening new plants. |
 | और उन्होंने बताया कि जापानी कंपनी टोयोटा नए प्लांट खोलकर अमेरिका में निवेश कर रही है। |
