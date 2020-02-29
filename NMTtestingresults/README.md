@@ -46,6 +46,7 @@ As we can see, PatInv reports two suspicious issues. These two issues are genear
 
 For English->Hindi Setting:
 
+| |
 | :--- |
 | I am very willing to share my point of view. |
 | I am very willing to share my point of day. |
